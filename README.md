@@ -1,1 +1,1 @@
-# Python-Digital-Clock
+# Digital Clock in PyQt5
