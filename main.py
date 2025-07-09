@@ -27,7 +27,7 @@ class DigitalClock(QWidget):
         self.time_label.setAlignment(Qt.AlignCenter)
 
         self.time_label.setStyleSheet("font-size: 120px;"
-                                      "color: white")
+                                      "color: white;")
         
         self.setStyleSheet("background-color: black")
 
